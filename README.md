@@ -7,7 +7,7 @@ Website: http://www.cosmicwatch.lns.mit.edu/
 YouTube tutorial: https://www.youtube.com/watch?v=e4IXzNiNxgU
 
 Paper: https://arxiv.org/abs/1801.03029
-![Muon Detector](.desktop/images/muon_detector.jpeg)
+![Muon Detector](CosmicWatch-Desktop-Muon-Detector-v2/Pictures/Detector.png)
 
 With there being a greater importance in being able to do projects at home due to many lab facilities not being available, I found this journey on building a muon detector at home to be quite a valuable experience in teaching me how to handle such a complicated project without aid. Due to how valuable of an experience this was for me, I decided to write this documentation of my work on it in order to help guide others in building a muon detector too. The design that I used is MIT’s Muon Detector (https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2), which although was an amazing design in terms of making it be possible for students to make their own detector, it had many faults which I address in this document. 
 
